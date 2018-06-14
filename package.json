@@ -1,0 +1,16 @@
+{
+  "name": "simplewebserver",
+  "version": "1.0.0",
+  "description": "This is a sample application for creating a web server",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Vivek Kumar",
+  "license": "ISC"
+}
